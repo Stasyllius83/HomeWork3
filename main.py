@@ -10,7 +10,6 @@ def main():
     print(transactions)
 
 
-
 if __name__ == '__main__':
     main()
 
